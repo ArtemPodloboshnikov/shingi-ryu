@@ -1,1 +1,1 @@
-.collapse-tree-button{ display: none !important; }
+.collapse-tree-button{ display: none !important; } a:has(> div > div.nav-file-tag){display: none !important;}
