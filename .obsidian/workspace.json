@@ -170,10 +170,49 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "387336c82e123aa1",
+  "floating": {
+    "id": "1a8fb3d84a119abe",
+    "type": "floating",
+    "children": [
+      {
+        "id": "af9606b191d23745",
+        "type": "window",
+        "children": [
+          {
+            "id": "6fafa13b0e6c1fcc",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "080ba0ccbc2d92be",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "pages/shingi-ryū.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "shingi-ryū"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 510,
+        "y": 540,
+        "width": 900,
+        "height": 500,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "080ba0ccbc2d92be",
   "lastOpenFiles": [
-    "pages/one-sword/one-sword-techniques.md",
     "pages/shingi-ryū.md",
+    "pages/one-sword/one-sword-techniques.md",
     "lib/styles/my-style.css",
     "lib/styles/Новый текстовый документ.txt",
     "lib/styles/my-style.html",
