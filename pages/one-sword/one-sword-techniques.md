@@ -20,5 +20,3 @@ You make a shomen feint from above and abruptly transfer the blow to the horizon
 <summary>RU</summary>
 Делаешь финт «shomen» сверху и в резко переводишь удар в горизонт. Из-за того, что противник может контратаковать в голову – она больше спортивная, так как вряд ли кто-то стал такое делать.
 </details>
-
-![[favicon.png]]
