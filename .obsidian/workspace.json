@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Shingi-ryū.md",
+                "file": "pages/one-sword/One sword techniques.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shingi-ryū"
+              "title": "One sword techniques"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Shingi-ryū.md",
+                "file": "pages/one-sword/One sword techniques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Shingi-ryū"
+              "title": "Backlinks for One sword techniques"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/Shingi-ryū.md",
+                "file": "pages/one-sword/One sword techniques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Shingi-ryū"
+              "title": "Outgoing links from One sword techniques"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/Shingi-ryū.md",
+                "file": "pages/one-sword/One sword techniques.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Shingi-ryū"
+              "title": "Outline of One sword techniques"
             }
           }
         ]
@@ -172,22 +172,23 @@
   },
   "active": "387336c82e123aa1",
   "lastOpenFiles": [
-    "lib/html/file-tree.html",
-    "lib/html",
-    "lib/search-index.json",
-    "lib/rss.xml",
-    "lib/metadata.json",
-    "lib/styles/obsidian.css",
-    "lib/styles/main-styles.css",
-    "lib/styles/global-variable-styles.css",
-    "lib/styles",
-    "lib/scripts/webpage.js",
-    "lib/scripts/pixi.js",
-    "lib/media/favicon.png",
-    "pages/one-sword/One sword techniques.md",
+    "lib/media/kageori-shomen.gif",
+    "pages/one-sword/one-sword-techniques.html",
+    "pages/lib/search-index.json",
+    "pages/lib/metadata.json",
+    "pages/lib/styles/obsidian.css",
+    "pages/lib/styles/global-variable-styles.css",
+    "pages/lib/styles/main-styles.css",
+    "pages/lib/styles",
+    "pages/lib/scripts/graph-data.js",
     "pages/lib/media/favicon.png",
-    "pages/one sword/One sword techniques.md",
+    "pages/lib/scripts/minisearch.js",
+    "pages/lib/scripts/pixi.js",
     "pages/Shingi-ryū.md",
+    "pages/lib/media/kageori-shomen.gif",
+    "pages/one-sword/One sword techniques.md",
+    "lib/media/favicon.png",
+    "pages/one sword/One sword techniques.md",
     "lib/media/Kageori-shomen.gif",
     "lib/media/Shunei-giri-shomen.gif",
     "lib/media/Shunei-giri.gif",
@@ -196,7 +197,6 @@
     "2025-05-23.md",
     "lib/media/zelu.webp",
     "lib/media/purs.webp",
-    "lib/media/pasted-image-20231005153918.webp",
-    "lib/media/pasted-image-20231005133819.webp"
+    "lib/media/pasted-image-20231005153918.webp"
   ]
 }

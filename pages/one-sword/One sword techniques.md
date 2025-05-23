@@ -11,8 +11,9 @@ tags:
 <summary>RU</summary>
 «Преломление тени» — быстрый переход от одного удара к другому.
 </details>
-## Kageori-shomen #sport
-You make a shomen feint from above and abruptly transfer the blow to the horizontal plane. Due to the fact that the opponent can counterattack to the head, this is more of a sports technique, since hardly anyone would do such a thing.
+## Kageori-shomen
+You make a shomen feint from above and abruptly transfer the blow to the horizontal plane. Due to the fact that the opponent can counterattack to the head, this is more of a sports technique, since hardly anyone would do such a thing. #sport
+
 ![[Kageori-shomen.gif]]
 <details>
 <summary>RU</summary>
