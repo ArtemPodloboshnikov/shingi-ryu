@@ -11,10 +11,14 @@
             "id": "387336c82e123aa1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "pages/Shingi-ryū.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Shingi-ryū"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "pages/Shingi-ryū.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Shingi-ryū"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "pages/Shingi-ryū.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Shingi-ryū"
             }
           },
           {
@@ -136,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "pages/Shingi-ryū.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Shingi-ryū"
             }
           }
         ]
@@ -165,10 +172,12 @@
   },
   "active": "387336c82e123aa1",
   "lastOpenFiles": [
-    "Новый текстовый документ.txt",
     "pages/one-sword/one-sword-techniques.md",
-    "pages/shingi-ryū.md",
+    "pages/Shingi-ryū.md",
+    "lib/rss.xml",
     "pages/shingi-ryū.html",
+    "Новый текстовый документ.txt",
+    "pages/shingi-ryū.md",
     "pages/one-sword/one-sword-techniques.html",
     "outer/lib/search-index.json",
     "outer/lib/metadata.json",
@@ -176,7 +185,6 @@
     "outer/lib/styles/global-variable-styles.css",
     "outer/lib/styles/main-styles.css",
     "outer/lib/styles",
-    "outer/lib/scripts/graph-data.js",
     "outer/lib/media/favicon.png",
     "outer/lib/media/kageori-shomen.gif",
     "outer/pages/lib/media/kageori-shomen.gif",
