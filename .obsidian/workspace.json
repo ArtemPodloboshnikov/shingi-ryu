@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "effb55a7b1501921",
+    "type": "split",
+    "children": [
+      {
+        "id": "42a4d95c0be05b53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "387336c82e123aa1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/Shingi-ryū.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Shingi-ryū"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8f24ea7282f9dd87",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a72143e3fe956dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f2135edd93e5635",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5f235957cec81082",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c55fa0a1867de57f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f16874032b6d319f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f2331f9c55ae998",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dab9e297d811b539",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "pages/Shingi-ryū.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Shingi-ryū"
+            }
+          },
+          {
+            "id": "dba4bf7b8b830963",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "pages/Shingi-ryū.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Shingi-ryū"
+            }
+          },
+          {
+            "id": "1dcb961fd54f4a0c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "02b049c88c19f5bd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "pages/Shingi-ryū.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Shingi-ryū"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "active": "387336c82e123aa1",
+  "lastOpenFiles": [
+    "lib/html/file-tree.html",
+    "lib/html",
+    "lib/search-index.json",
+    "lib/rss.xml",
+    "lib/metadata.json",
+    "lib/styles/obsidian.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles",
+    "lib/scripts/webpage.js",
+    "lib/scripts/pixi.js",
+    "lib/media/favicon.png",
+    "pages/one-sword/One sword techniques.md",
+    "pages/lib/media/favicon.png",
+    "pages/one sword/One sword techniques.md",
+    "pages/Shingi-ryū.md",
+    "lib/media/Kageori-shomen.gif",
+    "lib/media/Shunei-giri-shomen.gif",
+    "lib/media/Shunei-giri.gif",
+    "lib/media/0523-1.gif",
+    "README.md",
+    "2025-05-23.md",
+    "lib/media/zelu.webp",
+    "lib/media/purs.webp",
+    "lib/media/pasted-image-20231005153918.webp",
+    "lib/media/pasted-image-20231005133819.webp"
+  ]
+}
