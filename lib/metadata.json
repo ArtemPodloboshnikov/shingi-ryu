@@ -1,12 +1,13 @@
 {
   "vaultName": "shingi-ryu",
-  "lastExport": 1748005397004,
+  "lastExport": 1748006063628,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon is-focused",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
     "pages/one-sword/One sword techniques.md",
+    "pages/one-sword/one-sword-techniques.html",
     "pages/shingi-ryū.html",
     "pages/Shingi-ryū.md",
     "lib/media/kageori-shomen.gif",
@@ -43,111 +44,117 @@
   ],
   "fileInfo": {
     "pages/one-sword/One sword techniques.md": {
-      "modifiedTime": 1748005397004,
-      "sourceSize": 1030,
+      "modifiedTime": 1748006063628,
+      "sourceSize": 1031,
       "exportedPath": "pages/one-sword/one-sword-techniques.html",
       "dependencies": [
         "lib/media/kageori-shomen.gif"
       ]
     },
+    "pages/one-sword/one-sword-techniques.html": {
+      "modifiedTime": 1748006063628,
+      "sourceSize": 17340,
+      "exportedPath": "pages/one-sword/one-sword-techniques.html",
+      "dependencies": []
+    },
     "pages/shingi-ryū.html": {
-      "modifiedTime": 1748005397004,
+      "modifiedTime": 1748006063628,
       "sourceSize": 227929,
       "exportedPath": "pages/shingi-ryū.html",
       "dependencies": []
     },
     "pages/Shingi-ryū.md": {
-      "modifiedTime": 1748005397004,
+      "modifiedTime": 1748006063628,
       "sourceSize": 328,
       "exportedPath": "pages/shingi-ryū.html",
       "dependencies": []
     },
     "lib/media/kageori-shomen.gif": {
-      "modifiedTime": 1748005397004,
+      "modifiedTime": 1748006063628,
       "sourceSize": 23486739,
       "exportedPath": "lib/media/kageori-shomen.gif",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1748005397004,
+      "modifiedTime": 1748006063628,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1748005397004,
-      "sourceSize": 2952,
+      "modifiedTime": 1748006063628,
+      "sourceSize": 3336,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1748005397004,
+      "modifiedTime": 1748006063628,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1748005397004,
+      "modifiedTime": 1748006063628,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1748005397004,
+      "modifiedTime": 1748006063628,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1748005397004,
+      "modifiedTime": 1748006063628,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1748005397004,
+      "modifiedTime": 1748006063628,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1748005397004,
+      "modifiedTime": 1748006063628,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1748005397004,
+      "modifiedTime": 1748006063628,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1748005397004,
+      "modifiedTime": 1748006063628,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1748005397004,
+      "modifiedTime": 1748006063628,
       "sourceSize": 350,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1748005397004,
+      "modifiedTime": 1748006063628,
       "sourceSize": 138215,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1748005397004,
+      "modifiedTime": 1748006063628,
       "sourceSize": 262,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1748005397004,
+      "modifiedTime": 1748006063628,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
