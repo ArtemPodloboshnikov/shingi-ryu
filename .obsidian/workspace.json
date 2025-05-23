@@ -170,21 +170,56 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "387336c82e123aa1",
+  "floating": {
+    "id": "1a8fb3d84a119abe",
+    "type": "floating",
+    "children": [
+      {
+        "id": "8d23ad5730509fde",
+        "type": "window",
+        "children": [
+          {
+            "id": "0d7d9a7f4d58d03a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d9f1cb3cdfe70c35",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 510,
+        "y": 540,
+        "width": 900,
+        "height": 500,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "8f2135edd93e5635",
   "lastOpenFiles": [
     "outer/lib/search-index.json",
     "outer/lib/metadata.json",
     "outer/lib/styles/obsidian.css",
-    "outer/lib/styles/main-styles.css",
     "outer/lib/styles/global-variable-styles.css",
+    "outer/lib/styles/main-styles.css",
     "outer/lib/styles",
     "outer/lib/scripts/graph-data.js",
-    "pages/Shingi-ryū.md",
     "outer/lib/media/favicon.png",
     "outer/lib/scripts/minisearch.js",
     "outer/lib/scripts/pixi.js",
     "outer/lib/scripts/tinycolor.js",
     "outer/lib/scripts/graph-render-worker.js",
+    "pages/Shingi-ryū.md",
     "outer/lib/media/kageori-shomen.gif",
     "pages/one-sword/One sword techniques.md",
     "outer/pages/lib/media/kageori-shomen.gif",
