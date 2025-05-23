@@ -175,25 +175,21 @@
     "type": "floating",
     "children": [
       {
-        "id": "152c9051b946180a",
+        "id": "96c94d87aa182e69",
         "type": "window",
         "children": [
           {
-            "id": "36db0db6560c4bcc",
+            "id": "c0b1eb1a714e72ed",
             "type": "tabs",
             "children": [
               {
-                "id": "5e71e20635465285",
+                "id": "6aa6f3751c549a0f",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "pages/shingi-ryū.md",
-                    "mode": "source",
-                    "source": false
-                  },
+                  "type": "empty",
+                  "state": {},
                   "icon": "lucide-file",
-                  "title": "shingi-ryū"
+                  "title": "New tab"
                 }
               }
             ]
@@ -209,13 +205,13 @@
       }
     ]
   },
-  "active": "5e71e20635465285",
+  "active": "8f2135edd93e5635",
   "lastOpenFiles": [
+    "pages/shingi-ryū.html",
     "pages/shingi-ryū.md",
     "pages/one-sword/one-sword-techniques.md",
     "lib/media/kageori-shomen.gif",
     "lib/rss.xml",
-    "pages/shingi-ryū.html",
     "Новый текстовый документ.txt",
     "pages/one-sword/one-sword-techniques.html",
     "outer/lib/search-index.json",
