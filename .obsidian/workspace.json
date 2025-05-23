@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/shingi-ryū.md",
+                "file": "pages/one-sword/one-sword-techniques.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "shingi-ryū"
+              "title": "one-sword-techniques"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/shingi-ryū.md",
+                "file": "pages/one-sword/one-sword-techniques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for shingi-ryū"
+              "title": "Backlinks for one-sword-techniques"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/shingi-ryū.md",
+                "file": "pages/one-sword/one-sword-techniques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from shingi-ryū"
+              "title": "Outgoing links from one-sword-techniques"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/shingi-ryū.md",
+                "file": "pages/one-sword/one-sword-techniques.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of shingi-ryū"
+              "title": "Outline of one-sword-techniques"
             }
           }
         ]
@@ -172,8 +172,8 @@
   },
   "active": "387336c82e123aa1",
   "lastOpenFiles": [
-    "pages/one-sword/one-sword-techniques.md",
     "pages/shingi-ryū.md",
+    "pages/one-sword/one-sword-techniques.md",
     "Новый текстовый документ.txt",
     "pages/shingi-ryū.html",
     "pages/one-sword/one-sword-techniques.html",
