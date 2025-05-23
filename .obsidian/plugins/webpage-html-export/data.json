@@ -5,7 +5,7 @@
   "includePluginCSS": "",
   "includeSvelteCSS": true,
   "titleProperty": "title",
-  "customHeadContentPath": "",
+  "customHeadContentPath": "D:\\\\GitHub\\shingi-ryu\\lib\\styles\\my-style.txt",
   "faviconPath": "",
   "documentWidth": "40em",
   "sidebarWidth": "20em",

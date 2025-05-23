@@ -170,45 +170,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "1a8fb3d84a119abe",
-    "type": "floating",
-    "children": [
-      {
-        "id": "96c94d87aa182e69",
-        "type": "window",
-        "children": [
-          {
-            "id": "c0b1eb1a714e72ed",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6aa6f3751c549a0f",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "New tab"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 510,
-        "y": 540,
-        "width": 900,
-        "height": 500,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "8f2135edd93e5635",
+  "active": "387336c82e123aa1",
   "lastOpenFiles": [
-    "pages/shingi-ryū.html",
+    "lib/styles/my-style.txt",
+    "lib/styles/my-style.css",
+    "lib/styles/Новый текстовый документ.txt",
     "pages/shingi-ryū.md",
+    "pages/shingi-ryū.html",
     "pages/one-sword/one-sword-techniques.md",
     "lib/media/kageori-shomen.gif",
     "lib/rss.xml",
@@ -218,8 +186,6 @@
     "outer/lib/metadata.json",
     "outer/lib/styles/obsidian.css",
     "outer/lib/styles/global-variable-styles.css",
-    "outer/lib/styles/main-styles.css",
-    "outer/lib/styles",
     "outer/lib/media/favicon.png",
     "outer/lib/media/kageori-shomen.gif",
     "outer/pages/lib/media/kageori-shomen.gif",
