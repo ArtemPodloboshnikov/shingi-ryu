@@ -1,5 +1,5 @@
 {
     "redirects": [
-        { "source": "/", "destination": "/pages/shingi-ryū.html" }
+        { "source": "/", "destination": "/pages/index.html" }
     ]
 }
