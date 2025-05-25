@@ -20,3 +20,19 @@ You make a shomen feint from above and abruptly transfer the blow to the horizon
 <summary>RU</summary>
 Делаешь финт «shomen» сверху и в резко переводишь удар в горизонт. Из-за того, что противник может контратаковать в голову – она больше спортивная, так как вряд ли кто-то стал такое делать.
 </details>
+
+# Shunkan idō (瞬間移動)
+
+«Instant step» – moving towards the enemy with the help of jerks followed by an attack. It is better to use with the technique [[one-sword-techniques#Kage Hanareba (影離刃)|Kage Hanareba]]. #sport
+
+![[shunkan_ido.gif]]
+<details>
+<summary>RU</summary>
+«Мгновенный шаг» – перемещение к противнику с помощью рывков с последующей атакой. Лучше использовать с техникой Kage Hanareba.
+</details>
+# Kage Hanareba (影離刃)
+«Shadow severing blade» – a single-handed katana strike is often sudden. It is applied from the grip position with two hands. #sport
+<details>
+<summary>RU</summary>
+«Теневой расставшийся клинок» – удар наносимый катаной с помощью одной руки, зачастую внезапный. Наносится из позиции хвата двумя руками.
+</details>
