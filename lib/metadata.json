@@ -1,6 +1,6 @@
 {
   "vaultName": "shingi-ryu",
-  "lastExport": 1748208690816,
+  "lastExport": 1748208938936,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -45,85 +45,85 @@
   ],
   "fileInfo": {
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1748208690816,
+      "modifiedTime": 1748208938936,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1748208690816,
+      "modifiedTime": 1748208938936,
       "sourceSize": 3336,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1748208690816,
+      "modifiedTime": 1748208938936,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1748208690816,
+      "modifiedTime": 1748208938936,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1748208690816,
+      "modifiedTime": 1748208938936,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1748208690816,
+      "modifiedTime": 1748208938936,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1748208690816,
+      "modifiedTime": 1748208938936,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1748208690816,
+      "modifiedTime": 1748208938936,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1748208690816,
+      "modifiedTime": 1748208938936,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1748208690816,
+      "modifiedTime": 1748208938936,
       "sourceSize": 14939,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1748208690816,
+      "modifiedTime": 1748208938936,
       "sourceSize": 350,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1748208690816,
+      "modifiedTime": 1748208938936,
       "sourceSize": 138215,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1748208690816,
+      "modifiedTime": 1748208938936,
       "sourceSize": 262,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1748208690816,
+      "modifiedTime": 1748208938936,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
@@ -135,7 +135,7 @@
       "dependencies": []
     },
     "pages/one-sword/one-sword-techniques.md": {
-      "modifiedTime": 1748208690816,
+      "modifiedTime": 1748208938936,
       "sourceSize": 2020,
       "exportedPath": "pages/one-sword/one-sword-techniques.html",
       "dependencies": [
@@ -144,31 +144,31 @@
       ]
     },
     "lib/media/kageori-shomen.gif": {
-      "modifiedTime": 1748208690816,
+      "modifiedTime": 1748208938936,
       "sourceSize": 3698672,
       "exportedPath": "lib/media/kageori-shomen.gif",
       "dependencies": []
     },
     "pages/shingi-ryū.md": {
-      "modifiedTime": 1748208690816,
+      "modifiedTime": 1748208938936,
       "sourceSize": 973,
       "exportedPath": "pages/shingi-ryū.html",
       "dependencies": []
     },
     "pages/one-sword/one-sword-techniques.html": {
-      "modifiedTime": 1748208690816,
-      "sourceSize": 17329,
+      "modifiedTime": 1748208938936,
+      "sourceSize": 19451,
       "exportedPath": "pages/one-sword/one-sword-techniques.html",
       "dependencies": []
     },
     "pages/shingi-ryū.html": {
-      "modifiedTime": 1748208690816,
+      "modifiedTime": 1748208938936,
       "sourceSize": 17470,
       "exportedPath": "pages/shingi-ryū.html",
       "dependencies": []
     },
     "lib/media/shunkan_ido.gif": {
-      "modifiedTime": 1748208690816,
+      "modifiedTime": 1748208938936,
       "sourceSize": 4833840,
       "exportedPath": "lib/media/shunkan_ido.gif",
       "dependencies": []

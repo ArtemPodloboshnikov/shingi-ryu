@@ -169,50 +169,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "671118f04d5eebb3",
-    "type": "floating",
-    "children": [
-      {
-        "id": "ea616a98f47593a3",
-        "type": "window",
-        "children": [
-          {
-            "id": "9f499202c4d4d547",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7dc7f449ce8d7253",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "pages/one-sword/one-sword-techniques.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "one-sword-techniques"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 510,
-        "y": 540,
-        "width": 900,
-        "height": 500,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "7dc7f449ce8d7253",
+  "active": "387336c82e123aa1",
   "lastOpenFiles": [
+    "pages/shingi-ryū.md",
     "pages/one-sword/one-sword-techniques.md",
     "lib/media/shunkan_ido.mp4",
-    "pages/shingi-ryū.md",
     "lib/media/shunkan_ido_2.gif",
     "lib/media/kageori-shomen.gif",
     "lib/media/kageori-shomen_2.gif",
