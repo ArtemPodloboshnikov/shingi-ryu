@@ -4,6 +4,7 @@ updated: 2025-05-23
 author: Artem Podloboshnikov «Connector»
 tags:
   - one-sword
+  - sport
 ---
 # Kageori (影折り)
 «Shadow refraction» — a quick transition from one blow to another.
@@ -13,7 +14,7 @@ tags:
 </details>
 
 ## Kageori-shomen
-You make a shomen feint from above and abruptly transfer the blow to the horizontal plane. Due to the fact that the opponent can counterattack to the head, this is more of a sports technique, since hardly anyone would do such a thing. #sport
+You make a shomen feint from above and abruptly transfer the blow to the horizontal plane. Due to the fact that the opponent can counterattack to the head, this is more of a sports technique, since hardly anyone would do such a thing.
 
 ![[kageori-shomen.gif]]
 <details>
@@ -22,7 +23,7 @@ You make a shomen feint from above and abruptly transfer the blow to the horizon
 </details>
 
 # Shunkan idō (瞬間移動)
-«Instant step» – moving towards the enemy with the help of jerks followed by an attack. It is better to use with the technique [[one-sword-techniques#Kage Hanareba (影離刃)|Kage Hanareba]]. #sport
+«Instant step» – moving towards the enemy with the help of jerks followed by an attack. It is better to use with the technique [[traditional-one-sword#Kage Hanareba (影離刃)|Kage Hanareba]].
 
 ![[shunkan_ido.gif]]
 <details>
@@ -31,7 +32,7 @@ You make a shomen feint from above and abruptly transfer the blow to the horizon
 </details>
 
 # Kage Hanareba (影離刃)
-«Shadow severing blade» – a single-handed katana strike is often sudden. It is applied from the grip position with two hands. #sport
+«Shadow severing blade» – a single-handed katana strike is often sudden. It is applied from the grip position with two hands.
 <details>
 <summary>RU</summary>
 «Теневой расставшийся клинок» – удар наносимый катаной с помощью одной руки, зачастую внезапный. Наносится из позиции хвата двумя руками.
