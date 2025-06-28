@@ -174,15 +174,15 @@
     "type": "floating",
     "children": [
       {
-        "id": "e4140941248df1d1",
+        "id": "529220e72a0a2c25",
         "type": "window",
         "children": [
           {
-            "id": "4a42d87e37848712",
+            "id": "7a6e42bae1057aee",
             "type": "tabs",
             "children": [
               {
-                "id": "00d35d446b3263ac",
+                "id": "ff93f4eb4213070a",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -208,7 +208,7 @@
       }
     ]
   },
-  "active": "00d35d446b3263ac",
+  "active": "ff93f4eb4213070a",
   "lastOpenFiles": [
     "pages/one-sword/traditional-one-sword.md",
     "pages/one-sword/self-made-one-sword.md",

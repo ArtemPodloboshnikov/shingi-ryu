@@ -1,14 +1,15 @@
 {
   "vaultName": "shingi-ryu",
-  "lastExport": 1751150393145,
+  "lastExport": 1751150566239,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": true,
   "files": [
+    "pages/one-sword/self-made-one-sword.html",
     "pages/one-sword/self-made-one-sword.md",
+    "pages/one-sword/traditional-one-sword.html",
     "pages/one-sword/traditional-one-sword.md",
-    "pages/shingi-ryū.html",
     "pages/shingi-ryū.md",
     "lib/media/taiatari.gif",
     "lib/media/men_kaeshi_dou.gif",
@@ -51,85 +52,85 @@
   ],
   "fileInfo": {
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1751150393145,
+      "modifiedTime": 1751150566239,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1751150393145,
-      "sourceSize": 3300,
+      "modifiedTime": 1751150566239,
+      "sourceSize": 3714,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1751150393145,
+      "modifiedTime": 1751150566239,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1751150393145,
+      "modifiedTime": 1751150566239,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1751150393145,
+      "modifiedTime": 1751150566239,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1751150393145,
+      "modifiedTime": 1751150566239,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1751150393145,
+      "modifiedTime": 1751150566239,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1751150393145,
+      "modifiedTime": 1751150566239,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1751150393145,
+      "modifiedTime": 1751150566239,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1751150393145,
+      "modifiedTime": 1751150566239,
       "sourceSize": 14939,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1751150393145,
+      "modifiedTime": 1751150566239,
       "sourceSize": 433,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1751150393145,
+      "modifiedTime": 1751150566239,
       "sourceSize": 138215,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1751150393145,
+      "modifiedTime": 1751150566239,
       "sourceSize": 262,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1751150393145,
+      "modifiedTime": 1751150566239,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
@@ -141,67 +142,61 @@
       "dependencies": []
     },
     "lib/media/kageori-shomen.gif": {
-      "modifiedTime": 1751150393145,
+      "modifiedTime": 1751150566239,
       "sourceSize": 3698672,
       "exportedPath": "lib/media/kageori-shomen.gif",
       "dependencies": []
     },
     "pages/shingi-ryū.md": {
-      "modifiedTime": 1751150393145,
+      "modifiedTime": 1751150566239,
       "sourceSize": 2626,
       "exportedPath": "pages/shingi-ryū.html",
       "dependencies": []
     },
-    "pages/shingi-ryū.html": {
-      "modifiedTime": 1751150393145,
-      "sourceSize": 17470,
-      "exportedPath": "pages/shingi-ryū.html",
-      "dependencies": []
-    },
     "lib/media/shunkan_ido.gif": {
-      "modifiedTime": 1751150393145,
+      "modifiedTime": 1751150566239,
       "sourceSize": 4833840,
       "exportedPath": "lib/media/shunkan_ido.gif",
       "dependencies": []
     },
     "lib/media/taiatari.gif": {
-      "modifiedTime": 1751150393145,
+      "modifiedTime": 1751150566239,
       "sourceSize": 1031522,
       "exportedPath": "lib/media/taiatari.gif",
       "dependencies": []
     },
     "lib/media/men_kaeshi_dou.gif": {
-      "modifiedTime": 1751150393145,
+      "modifiedTime": 1751150566239,
       "sourceSize": 3133345,
       "exportedPath": "lib/media/men_kaeshi_dou.gif",
       "dependencies": []
     },
     "lib/media/nuki_waza.gif": {
-      "modifiedTime": 1751150393145,
+      "modifiedTime": 1751150566239,
       "sourceSize": 1614466,
       "exportedPath": "lib/media/nuki_waza.gif",
       "dependencies": []
     },
     "lib/media/maki_waza.gif": {
-      "modifiedTime": 1751150393145,
+      "modifiedTime": 1751150566239,
       "sourceSize": 1462498,
       "exportedPath": "lib/media/maki_waza.gif",
       "dependencies": []
     },
     "lib/media/debana_waza.gif": {
-      "modifiedTime": 1751150393145,
+      "modifiedTime": 1751150566239,
       "sourceSize": 982551,
       "exportedPath": "lib/media/debana_waza.gif",
       "dependencies": []
     },
     "lib/media/aiuchi_no_kachi.gif": {
-      "modifiedTime": 1751150393145,
+      "modifiedTime": 1751150566239,
       "sourceSize": 2308115,
       "exportedPath": "lib/media/aiuchi_no_kachi.gif",
       "dependencies": []
     },
     "pages/one-sword/self-made-one-sword.md": {
-      "modifiedTime": 1751150393145,
+      "modifiedTime": 1751150566239,
       "sourceSize": 4297,
       "exportedPath": "pages/one-sword/self-made-one-sword.html",
       "dependencies": [
@@ -214,13 +209,25 @@
       ]
     },
     "pages/one-sword/traditional-one-sword.md": {
-      "modifiedTime": 1751150393145,
+      "modifiedTime": 1751150566239,
       "sourceSize": 2010,
       "exportedPath": "pages/one-sword/traditional-one-sword.html",
       "dependencies": [
         "lib/media/kageori-shomen.gif",
         "lib/media/shunkan_ido.gif"
       ]
+    },
+    "pages/one-sword/self-made-one-sword.html": {
+      "modifiedTime": 1751150566239,
+      "sourceSize": 25251,
+      "exportedPath": "pages/one-sword/self-made-one-sword.html",
+      "dependencies": []
+    },
+    "pages/one-sword/traditional-one-sword.html": {
+      "modifiedTime": 1751150566239,
+      "sourceSize": 19933,
+      "exportedPath": "pages/one-sword/traditional-one-sword.html",
+      "dependencies": []
     }
   }
 }
